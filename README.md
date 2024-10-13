@@ -5,4 +5,4 @@
 
  Para poder visualizar el proyecto se nesecita entrar a el URL del repositorio de GitHub y descargar las carpeta para poder visualizar el favicon y demas.
 
-URL del proyecto: 
+URL del proyecto: https://github.com/Gabrie-l1807/Curriculum-Vitae-Proyecto.git
